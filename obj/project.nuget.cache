@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WLBYSTWKZuomJGNTw5tp1dM7vXsmqNxFVLYG5YONqWQzK8LwHc/3qdcpqJEqSsgq01eTEoR/8BSy2PKYhIlKCQ==",
+  "success": true,
+  "projectFilePath": "/home/fakebelieve/Documents/Systems Design/web_app/web_app.csproj",
+  "expectedPackageFiles": [
+    "/home/fakebelieve/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
